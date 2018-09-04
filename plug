@@ -1,0 +1,47 @@
+plug dj
+{
+  "room":"CZ/SK \\u2665\\u2665 BAILÃO",
+  "author":" ",
+  "icon":" ",
+  "css":"https://rawgit.com/storgall/RCS/master/css.css",
+  "rules":{
+    "allowAutorespond":true,
+    "allowAutowoot":true,
+    "allowAutojoin":true,
+    "allowAutograb":true,
+    "allowSmartVote":true,
+    "allowEmotes":true,
+    "allowShowingMehs":true,
+    "forceSmartVote":false
+  },
+  "ccc":{
+    "admin":"",
+    "ambassador":"#95CB00",
+    "host":"#00FF00",
+    "cohost":"#FF3399",
+    "manager":"#FFFF00",
+    "bouncer":"#CC00CC",
+    "rdj":"#3399FF",
+    "subscriber":null,
+    "silversubscriber":null,
+    "friend":"#FF8000",
+    "user":"#FF99FF"
+  },
+  "images":{
+    "background":"https://i.imgur.com/3cTwFs9.png",
+    "playback":"https://i.imgur.com/ahnyDj3.png",
+    "admin":null,
+    "ambassador":null,
+    "host":"https://i.imgur.com/0SsQqkJ.png",
+    "cohost":"https://i.imgur.com/LEG6xaC.png",
+    "manager":"https://i.imgur.com/Yuf0jWC.png",
+    "bouncer":"https://i.imgur.com/8PohKiU.png",
+    "rdj":"https://i.imgur.com/1kaCtOh.png",
+    "subscriber":null,
+    "silversubscriber":null
+  },
+  "emotes":{
+    "emote_name":null
+  }
+}
+
